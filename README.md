@@ -10,10 +10,11 @@ In order to use the programme for decrypt FILE :
 
  	make   
 	./vigenere [FILE]    
-	In the case that there is no argument, we decrypt "my_chiffre.txt".    
-	The file must have a particular format :    
-	The file must have no blank beetween letter    
-	each letter must be Upper letter   
+	
+In the case that there is no argument, we decrypt "my_chiffre.txt".    
+The file must have a particular format :    
+The file must have no blank beetween letter    
+each letter must be Upper letter   
 
 ## Present files
 
