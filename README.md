@@ -38,6 +38,9 @@ The file must have a particular format :
 - First of all we read the text and load it in memory.
 - Then we compute the coincidence for i substrings incrementing i until the compute coincidence correspond to the French one. That give us the key length.
 - Then we seek the offset between each key's letter by computing the mutual coincidence.
-- Then we seek the first key letter by "moving" the most frequent letter in the first substring to the MOST_USE_LETTER. That give us the all key.
+- Then we seek the first key letter by "moving" the most frequent letter in the first substring to the `MOST_USE_LETTER`. That give us the all key.
 - Finally we just decrypt the initial encrypted text with the key and print it in the console.
 
+## Note
+
+I don't even know why I don't use git all the line in this project. Maybe because I start it in class and I was not really focus on git but focus on the technical inside. 
