@@ -13,8 +13,8 @@ In order to use the programme for decrypt FILE :
 	
 In the case that there is no argument, we decrypt "my_chiffre.txt".    
 The file must have a particular format :    
-The file must have no blank beetween letter    
-each letter must be Upper letter   
+1. The file must have no blank beetween letter    
+2. each letter must be Upper letter   
 
 ## Present files
 
