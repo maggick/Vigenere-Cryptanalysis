@@ -43,4 +43,4 @@ The file must have a particular format :
 
 ## Note
 
-I don't even know why I don't use git all the line in this project. Maybe because I start it in class and I was not really focus on git but focus on the technical inside. 
+I don't even know why I don't use git all the line in this project. Maybe because I start it in class and I was not really focus on git but on the technical inside. 
